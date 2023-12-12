@@ -58,15 +58,11 @@ namespace TicketReservation
     {
         public static bool IsValidPhoneNumber(this string phoneNumber)
         {
-            // Проверка валидности номера телефона
-            // Реализация опущена для простоты примера
             return true;
         }
 
         public static bool IsValidPassportNumber(this string passportNumber)
         {
-            // Проверка валидности номера паспорта
-            // Реализация опущена для простоты примера
             return true;
         }
     }
